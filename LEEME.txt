@@ -1,0 +1,5 @@
+1. En el editor de preferencia en el package.json tener en cuenta la debida descripción.
+2. para ejecutar el script solo basta con instalar mocha
+2.1 npm install -g mocha
+3. Después de instalado, ejecutar los distintos test con el comando mocha
+3.1 mocha Prueba.test.js
